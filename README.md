@@ -2,7 +2,7 @@
 - 👀 I’m interested in Astronomy, Education, and the Outdoors.
 - 🌱 I’m currently learning more about Cybersecurity, Python, Raspberry Pi, and more.
 - 💞️ I’m looking to collaborate on the Auto Classroom Attendance App
-- 📫 How to reach me john@kubala.name
+- 📫 How to reach me githubprofile.com.gotten554@passmail.net
 
 <!---
 jkubala4454/jkubala4454 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
